@@ -1,6 +1,15 @@
 import { AuthProvider } from "@refinedev/core";
 
-import { User } from "@/graphql/schema.types";
+//import { User } from "@/graphql/schema.types";
+interface User {
+    id: string;
+    name: string;
+    email: string;
+    phone: string;
+    jobTitle: string;
+    timezone: string;
+    avatarUrl: string;
+  }
 
 import { API_URL, dataProvider } from "./data";
 
