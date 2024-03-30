@@ -48,3 +48,12 @@ To learn more about **Refine**, please check out the [Documentation](https://ref
 ## License
 
 MIT
+
+## Skills
+
+
+- **Query Data Provider: NestJS Query Data Provider // Providers in NestJS are classes that can be injected into controllers, services, and other components. They are used for tasks such as accessing databases, performing business logic, or interacting with external services.**
+- **UI Framework: Ant Design**
+- **Authentication logic: Custom Mock Auth Provider**
+- **Development Tool: Vite**
+- **Javascript Libraries: Node.js, _, Nest.JS // this library provides a way to quickly create RESTful APIs in NestJS. This library offers features for creating CRUD (Create, Read, Update, Delete) endpoints for your entities**
