@@ -3,6 +3,8 @@ import { authCredentials } from "../../providers";
 
 export const Login = () => {
   return (
-    <AuthPage type="login" formProps={{ initialValues: authCredentials }} />
+    <AuthPage 
+    type="login" 
+    formProps={{ initialValues: authCredentials }} />
   );
 };

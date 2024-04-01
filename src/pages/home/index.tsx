@@ -5,3 +5,5 @@ export const Home= () => {
     <div>Home</div>
   )
 }
+
+// only exporting one file (vs. export default const)

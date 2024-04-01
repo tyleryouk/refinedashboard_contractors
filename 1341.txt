@@ -1,0 +1,19 @@
+13:41
+26:54
+44:10
+52:22
+
+
+API Communication Protocols:
+GraphQL
+RESTful HTTP requests
+Websocket (graphql-ws)
+
+Libraries:
+@refinedev/nestjs-query
+graphql-ws
+
+UI Toolkits:
+Ant Design
+
+https://www.youtube.com/watch?v=6a3Dz8gwjdg&t=821s
